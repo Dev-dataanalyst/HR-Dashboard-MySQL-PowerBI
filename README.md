@@ -8,3 +8,5 @@
 ![image](https://github.com/Dev-dataanalyst/HR-Dashboard-MySQL-PowerBI/assets/143479964/d1c2fe17-095f-4117-9c18-ce8fb4e606d1)
 
 ![image](https://github.com/Dev-dataanalyst/HR-Dashboard-MySQL-PowerBI/assets/143479964/611d8736-1396-446c-8fc6-d56988a42303)
+
+![image](https://github.com/Dev-dataanalyst/HR-Dashboard-MySQL-PowerBI/assets/143479964/f075a5ee-9f02-4bf6-8ade-97e1eb1ffcdf)
